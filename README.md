@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning as much as I possibly can..😅
 - 👯 I’m looking to collaborate on innovative ideas.
-- 🥅 2020 Goals: Contribute more to Open Source projects 😎
+- 🥅 2021 Goals: Contribute more to Open Source projects 😎
 - ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
 <!-- - Checkout my [ comp nm Github Id](https://github.com/url) 💪 -->
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/nikhilv1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/VinayGu39817690" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikhil-vinay-611491145" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.instagram.com/nikhilv1" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
+<p><a href="https://github.com/nikhilvinay1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/VinayGu39817690" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikhil-vinay-611491145" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.instagram.com/nikhillvinay" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
 </p>
 
 <br />
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <br /> <br /> 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nikhilv1.visitor_count)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nikhilvinay1.visitor_count)
 
 
 
